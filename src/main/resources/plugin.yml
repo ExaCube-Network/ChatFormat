@@ -1,0 +1,9 @@
+main: be.exacu.Spigot.ChatFormat
+name: ChatFormat
+version: 1.0
+api-version: 1.15
+author: ExZiByte
+description: ExaCube Network Chat Formatter Plugin
+prefix: ChatFormat
+
+depend: ['LuckPerms']
